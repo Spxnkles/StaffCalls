@@ -1,0 +1,15 @@
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\StaffCalls.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\StaffCalls.pdb
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\Assembly-CSharp.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\Rocket.API.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\Rocket.Core.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\Rocket.Unturned.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\SDG.NetTransport.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\bin\Debug\UnityEngine.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\obj\Debug\StaffCalls.csproj.AssemblyReference.cache
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\obj\Debug\StaffCalls.csproj.CoreCompileInputs.cache
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\obj\Debug\StaffCalls.csproj.CopyComplete
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\obj\Debug\StaffCalls.dll
+C:\Users\pavol\source\repos\Projects\StaffCalls\StaffCalls\obj\Debug\StaffCalls.pdb
